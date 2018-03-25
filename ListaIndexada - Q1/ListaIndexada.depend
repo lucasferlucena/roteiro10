@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1519408742 source:/home/lincoln/Documentos/codigos-ed/ListaIndexada/listaInt.c
+	"listaInt.h"
+	<stdio.h>
+	<stdlib.h>
+
+1519408620 /home/lincoln/Documentos/codigos-ed/ListaIndexada/listaInt.h
+
+1519408774 source:/home/lincoln/Documentos/codigos-ed/ListaIndexada/main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaInt.h"
+
+1521747153 source:c:\users\lucas\documents\1-ufpb\p4\ed\listaindexada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaInt.h"
+
+1519408620 c:\users\lucas\documents\1-ufpb\p4\ed\listaindexada\listaint.h
+
+1521748234 source:c:\users\lucas\documents\1-ufpb\p4\ed\listaindexada\listaint.c
+	"listaInt.h"
+	<stdio.h>
+	<stdlib.h>
+
